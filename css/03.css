@@ -1,0 +1,17 @@
+.izu{
+  color:red;
+  font-size: 20px;
+
+}
+p{
+  font-style: italic;
+  font-size: 20px;
+}
+
+img{
+  
+  box-sizing: border-box;
+  border: 5px groove black;
+  margin: 20px;
+
+}
